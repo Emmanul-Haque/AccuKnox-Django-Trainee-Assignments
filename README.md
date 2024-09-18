@@ -1,1 +1,1 @@
-# AccuKnox-Django-Trainee-Assignments
+# ACCUKNOX-Django-Trainee-Assignments
